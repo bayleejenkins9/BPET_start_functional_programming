@@ -18,6 +18,7 @@ library(rsi)
 library(rstac)
 library(terra)
 library(tictoc)
+library(tidyterra)
 library(tidyverse)
 
 source("R/utils.R")
